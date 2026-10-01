@@ -1,0 +1,9 @@
+[tool.pytest.ini_options]
+addopts = "--cov --cov-report=term-missing"
+
+[tool.coverage.run]
+source = ["."]
+omit = ["*/test_*.py", ".venv/*"]
+
+[tool.coverage.report]
+fail_under = 100
