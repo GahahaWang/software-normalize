@@ -139,6 +139,7 @@ TOTAL                 8      0   100%
 Required test coverage of 100.0% reached. Total coverage: 100.00%
 ============================== 4 passed in 0.18s ==============================
 ```
+![alt text](image.png)
 
 ### 對照：少一個案例就無法達到 100%
 
