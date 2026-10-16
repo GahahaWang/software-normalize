@@ -7,6 +7,7 @@
 | 作業 | 內容 |
 | --- | --- |
 | [hw1](hw1/README.md) | 選定程式語言與測試工具、工具介紹與功能說明 |
+| [hw2](hw2/README.md) | Line coverage：以最少測試案例達到 100% |
 
 ## 執行方式（Windows PowerShell）
 

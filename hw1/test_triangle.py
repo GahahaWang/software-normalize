@@ -1,6 +1,6 @@
 import pytest
 
-from triangle import classify_triangle
+from hw1.triangle import classify_triangle
 
 
 # 每個 return 敘述各需一個測試案例：4 個 return → 最少 4 個案例
